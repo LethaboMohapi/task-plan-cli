@@ -1,0 +1,6 @@
+[
+  {"id":"T1","title":"Write setup guide","due":"2026-10-30","status":"todo","priority":1},
+  {"id":"T2","title":"Review validation tests","due":"2026-10-31","status":"doing","priority":2},
+  {"id":"T3","title":"Prepare demo recording","due":"2026-11-02","status":"todo","priority":3},
+  {"id":"T4","title":"Define input schema","due":"2026-10-29","status":"done","priority":1}
+]

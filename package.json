@@ -1,0 +1,1 @@
+{"name":"task-plan-cli","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test","demo":"node cli.js sample.json 2026-10-31"},"engines":{"node":">=22"}}
