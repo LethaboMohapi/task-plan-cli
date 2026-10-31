@@ -28,4 +28,4 @@ The supplied date is explicit so results are reproducible across time zones. Tas
 - Add a Markdown report output option.
 - Add CI to run `npm test` on proposed changes.
 
-Contributions should solve a clear problem, describe expected output, and include relevant tests. Use fictional task data. Built as an AI-assisted learning demo.
+Contributions should solve a clear problem, describe expected output, and include relevant tests. Use fictional task data.
